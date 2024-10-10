@@ -1,2 +1,3 @@
 # Unity-Game-Source-Codes-
-This  reposetory contains some of unity games source code (Paid)  with ads integraded.
+This repository offers source code for various Unity games (paid) with integrated ads. It also includes assets available on the Unity Asset Store at discounted prices.
+
